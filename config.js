@@ -10,16 +10,16 @@ module.exports = {
   token: "" || process.env.TOKEN,
   timeZone: "Asia/Kolkata", //Your Timezone, eg Asia/Kolkata
   Name: "My bio",
-  State: "CREATING SERVERS",
+  State: "CREATING WAIFUS",
   Details: "DISCORD DEVELOPER",
-  FirstButtonName: "INSTA",
-  FirstButtonUrl: "https://www.instagram.com/yuta.xae?igsh=MTVzenNodGt3MmE5cw==",
+  FirstButtonName: "ZERO TWO",
+  FirstButtonUrl: "https://discord.com/oauth2/authorize?client_id=1239867862059974727",
   SecondButtonName: "DISCORD",
   SecondButtonUrl: "https://discord.com/invite/sbFJCnQzJz",
-  LargeImage: "https://cdn.discordapp.com/attachments/1219627413831553034/1240592001607536681/371c7e7ebdf81a43ee3c3de118609231.gif?ex=66471ed6&is=6645cd56&hm=12015b1c45450b80aa2c103a829e19eb29c35861f98b306a75a8f9484d7f439c&", // DISCORD CDN IMAGE ONLY
-  LargeText: "discord.js", // hover text for large image
-  SmallImage: "https://cdn.discordapp.com/attachments/1219627413831553034/1240592031739543553/74e95fa7757a7c3c99c3e67675146208.gif?ex=66471edd&is=6645cd5d&hm=39b602b50b9d72b93fd9be01fcb828c9c9590e42abd93c5315c39513ccb62cfb&", // DISCORD CDN IMAGE ONLY
-  SmallText: "creating servers", // hover text for small image
+  LargeImage: "https://cdn.discordapp.com/attachments/1219628338859999384/1243829578351509605/6965-zero-two-avatar-pfpsgg.gif?ex=6652e610&is=66519490&hm=1c32e9f1927d0272ffa05a176cf471444bad41947edc6841704dd21e92cdcd55&", // DISCORD CDN IMAGE ONLY
+  LargeText: "CREATING WAIFU", // hover text for large image
+  SmallImage: "https://cdn.discordapp.com/attachments/1219628338859999384/1243829888260112434/cute-smiling-zero-two-fybugb80h7plzr4r.webp?ex=6652e65a&is=665194da&hm=9b6255f7f4701224ef13f4486f094b91737258cb641698e64adb1ffde7a6f362&", // DISCORD CDN IMAGE ONLY
+  SmallText: "Zero two", // hover text for small image
 };
 
 ///////////////////////////
